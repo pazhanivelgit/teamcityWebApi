@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Web.Api</id>
+        <version>0.0.1</version>
+        <title>Vel.Api</title>
+        <authors>Vel</authors>
+        <owners>Vel</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Description</description>
+        <copyright>Copyright © 2017</copyright>
+        <dependencies />
+    </metadata>
+    <files>
+      <file src="webApi\bin\**\*.*" target="/bin" />
+    </files>
+</package>
