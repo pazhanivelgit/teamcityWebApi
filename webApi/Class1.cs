@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace webApi
 {
+	//tested
     public class Class1
     {
     }
