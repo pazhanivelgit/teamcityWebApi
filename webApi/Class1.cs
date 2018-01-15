@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace webApi
 {
-	//tested changed in master
-    public class Class1
+
+//tested changed in master - conflict solved    public class Class1
     {
     }
 }
