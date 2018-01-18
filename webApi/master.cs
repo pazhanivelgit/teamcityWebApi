@@ -9,7 +9,7 @@ namespace webApi
 
 //tested changed in master - conflict solved    public class Class1
     {
-		//add in master - again added into master
+		//add in master - again added into master - merged with branch
     }
 	//add in branch
 }
