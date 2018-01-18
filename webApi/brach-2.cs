@@ -10,4 +10,5 @@ namespace webApi
 //tested changed in master - conflict solved    public class Class1
     {
     }
+	//b2-change - 1
 }
